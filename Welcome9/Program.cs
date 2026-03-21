@@ -12,6 +12,7 @@ namespace Welcome9
         {
             Console.WriteLine(" HELLO WORLD ");
            Console.WriteLine(" inserted new line ");
+            Console.WriteLine(" inserted new line 2 ");
         }
     }
 }
